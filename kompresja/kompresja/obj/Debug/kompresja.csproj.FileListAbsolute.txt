@@ -1,0 +1,10 @@
+C:\Users\Bartek\source\repos\kompresja\kompresja\bin\Debug\kompresja.exe.config
+C:\Users\Bartek\source\repos\kompresja\kompresja\bin\Debug\kompresja.exe
+C:\Users\Bartek\source\repos\kompresja\kompresja\bin\Debug\kompresja.pdb
+C:\Users\Bartek\source\repos\kompresja\kompresja\obj\Debug\kompresja.csprojAssemblyReference.cache
+C:\Users\Bartek\source\repos\kompresja\kompresja\obj\Debug\kompresja.Form1.resources
+C:\Users\Bartek\source\repos\kompresja\kompresja\obj\Debug\kompresja.Properties.Resources.resources
+C:\Users\Bartek\source\repos\kompresja\kompresja\obj\Debug\kompresja.csproj.GenerateResource.cache
+C:\Users\Bartek\source\repos\kompresja\kompresja\obj\Debug\kompresja.csproj.CoreCompileInputs.cache
+C:\Users\Bartek\source\repos\kompresja\kompresja\obj\Debug\kompresja.exe
+C:\Users\Bartek\source\repos\kompresja\kompresja\obj\Debug\kompresja.pdb
